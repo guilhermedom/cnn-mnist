@@ -12,10 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-"""Functions for downloading and reading MNIST data (deprecated).
-
-This module and all its submodules are deprecated.
-"""
 
 from __future__ import absolute_import
 from __future__ import division
